@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c85aa4b4-65b2-42e2-ad11-1d12bad6ff01" name="voda" url="http://voda04.ftp.tools">
+        <fileTransfer host="voda04.ftp.tools" port="22" rootFolder="/home/voda04/voda.pl.ua/corp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

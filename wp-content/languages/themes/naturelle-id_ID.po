@@ -1,0 +1,160 @@
+# Translation of Themes - Naturelle in Indonesian
+# This file is distributed under the same license as the Themes - Naturelle package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-06 10:42:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Naturelle\n"
+
+#. Description of the plugin/theme
+msgid "Naturelle is a free and beautiful free themes focused on nature, eco, earthy or organic related businesses, but provides a simple and professional look that can be used for any kind of businesses or startups. Naturelle has a green & orange appearance, with buttons and icons promoting simplicity and elegance at their best. The theme provides a responsive blog section, is ecommerce ready (WooCommerce compatible), WPML and SEO friendly. You can use it for your business / startup, shops, corporate enviromental websites, or portfolios."
+msgstr "Naturelle adalah tema gratis yang fokus pada kealamian, eco, bumi atau bisnis terkait organik, tapi juga memberikan tampilan yang sederhana dan profesional yang dapat digunakan untuk bisnis pemula atau jenis bisnis apapun. Naturelle memiliki tampilan hijau dan orange, dengan tombol dan ikon promosi elegan dan terbaik. Tema memberikan bagian blog yang responsif, ecommerce siap (cocok dengan WooCommerce), WPML dan SEO bersahabat. Anda dapat menggunakan tema ini untuk bisnis baru atau lama, toko, situs perusahaan lingkungan, atau portfolio."
+
+#: functions.php:239
+msgid "Header button label:"
+msgstr "Label tombol header:"
+
+#: functions.php:182
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:177
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:172
+msgid "Name"
+msgstr "Nama"
+
+#: functions.php:160
+msgid "Continue Reading "
+msgstr "Selengkapnya"
+
+#: functions.php:126
+msgid "Button link"
+msgstr "Link tombol"
+
+#: functions.php:121 functions.php:237
+msgid "#"
+msgstr "#"
+
+#: functions.php:114
+msgid "Button text"
+msgstr "Teks tombol"
+
+#: functions.php:109 functions.php:236
+msgid "Learn more"
+msgstr "Selengkapnya"
+
+#: functions.php:102
+msgid "Main title"
+msgstr "Judul utama"
+
+#: functions.php:97 functions.php:224
+msgid "Notable partners"
+msgstr "Penting"
+
+#: functions.php:79
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:79
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  naturelle.pot (Naturelle 1.0.5)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions.php:78
+msgid "Naturelle"
+msgstr "Naturelle"
+
+#: functions.php:77
+msgid "%1$s powered by %2$s"
+msgstr "%1$s ditenagai oleh %2$s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:52
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "pada"
+
+#: content-search.php:55 content-single.php:49 content.php:68
+msgid "Pages:"
+msgstr "Laman:"
+
+#: content-search.php:50 content.php:63
+msgid "about "
+msgstr "tentang"
+
+#: content-search.php:50 content.php:63
+msgid "Read more %s ..."
+msgstr "Selengkapnya %s ..."
+
+#: content-search.php:41 content.php:28
+msgid "% comments"
+msgstr "% komentar"
+
+#: content-search.php:41 content.php:28
+msgid "One comment"
+msgstr "Satu komentar"
+
+#: content-search.php:41 content.php:28
+msgid "No comments"
+msgstr "Tidak ada komentar"
+
+#: content-search.php:28
+msgid "Posted in "
+msgstr "Di pos pada"
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:23
+msgid ", "
+msgstr ","
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:55 comments.php:78
+msgid "Newer Comments"
+msgstr "Komentar Terkini"
+
+#: comments.php:54 comments.php:77
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:51 comments.php:74
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentar pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentar pada &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu komentar pada &ldquo;%s&rdquo;"
+
+#. Author URI of the plugin/theme
+msgid "https://www.themeisle.com/"
+msgstr "https://www.themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/naturelle/"
+msgstr "https://themeisle.com/themes/naturelle/"

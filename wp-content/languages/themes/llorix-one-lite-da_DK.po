@@ -1,0 +1,1520 @@
+# Translation of Themes - Llorix One Lite in Danish
+# This file is distributed under the same license as the Themes - Llorix One Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-01 11:44:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - Llorix One Lite\n"
+
+#. Description of the plugin/theme
+msgid "Llorix One Lite is a free and beautiful one page business WordPress theme, with a flat and clean bootstrap based design and an elegant parallax effect. It provides a simple,minimal and modern look that can be used for any kind of personal businesses or startup mobile app. The landing page has a fullscreen hero image and blue & orange appearance with buttons and icons promoting simplicity and elegance at their best. The theme provides a responsive blog section, is eCommerce ready (WooCommerce store compatible), WPML, bbPress, Photo Gallery Grid,Contact Form 7,Meta Slider,SiteOrigin Page Builder, JetPack compatible  and SEO friendly. You can use it for your business / startup shop, agency, corporate website, or photography portfolio."
+msgstr "Llorix One Lite er et gratis, smukt enkeltside WordPress-tema med et fladt og rent bootstrap-baseret design og elegant parallax-effekt. Det byder på et enkelt, minimalt og moderne udseende, der kan bruges til enhver type af personligt firma eller iværksætter mobil-app. Landingssiden har et fuldskærms \"hero billede\" (banner med tekst) og et blåt og orange udseende med knapper og ikoner, der viser enkelthed og og elegance på bedste vis. Temaet har en responsiv blog-sektion, er klar til e-handel (WooCommerce kompatibelt), WPML, bbPress, Photo Gallery Grid, Contact Form 7, Meta Slider, SiteOrigin Page Builder, Jetpack kompatibel og SEO-venligt. Du kan bruge det til din forretning/opstartsbutik, et bureau, virksomhedswebsted eller fotoportfolio. "
+
+#. #-#-#-#-#  llorix-one-lite.pot (Llorix One Lite 0.2.17)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customize-pro/class-customizer-theme-info-root.php:98
+msgid "Llorix One Lite"
+msgstr "Llorix One Lite"
+
+#: functions.php:801
+msgid "Notification"
+msgstr "Notifikation"
+
+#. translators: Link to the recommended theme
+#. translators: link to the recommended theme
+#: functions.php:789 functions.php:815
+msgid "This theme is not maintained anymore, check-out our latest free one-page theme: %1$s."
+msgstr "Dette tema opdateres ikke længere. Tjek vores nye og gratis ensides tema %1$s."
+
+#: functions.php:268
+msgid "Sidebar Shop Page"
+msgstr "Sidebar butiksside"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:588
+#: inc/customizer-repeater/class/customizer-repeater-control.php:635
+msgid "Add icon"
+msgstr "Tilføj ikon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:583
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Remove Icon"
+msgstr "Fjern ikon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Social icons"
+msgstr "Sociale ikoner"
+
+#. translators: %s is link label
+#: inc/customizer-repeater/class/customizer-repeater-control.php:487
+msgid "FontAwesome"
+msgstr "FontAwesome"
+
+#. translators: %s is link to FontAwesome
+#: inc/customizer-repeater/class/customizer-repeater-control.php:483
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %s"
+msgstr "Note: Nogle ikoner vises måske ikke her. Du kan se den komplette liste med ikoner på %s"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:117
+msgid "Cusomizer Repeater"
+msgstr "Tilpasser duplikator"
+
+#: inc/customizer-page-editor/class/customizer-page-editor-control.php:73
+msgid "About background"
+msgstr "Om baggrund"
+
+#: functions.php:201
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: functions.php:198
+msgid "Recommended Plugins"
+msgstr "Anbefalede plugins"
+
+#. translators: %1$s is the name for the theme
+#: functions.php:193
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s"
+msgstr "Hvis du vil udnytte mulighederne i dette tema fuldt ud, så installer og aktiver venligst %s"
+
+#. Template Name of the plugin/theme
+msgid "Full Width with no title template"
+msgstr "Fuld bredde uden titelskabelon"
+
+#: inc/customizer.php:598
+msgid "Add new logo"
+msgstr "Tilføj nyt logo"
+
+#. translators: %1$s is the customize link %2$s the customize link label
+#: inc/customizer.php:434 inc/customizer.php:657 inc/customizer.php:744
+#: sections/llorix_one_lite_header_section.php:22
+#: sections/llorix_one_lite_our_story_section.php:21
+#: sections/llorix_one_lite_ribbon_section.php:19
+msgid "Change this text in %s"
+msgstr "Ændre tekst i %s"
+
+#: inc/customizer.php:1163
+msgid "Alternative Header Layout"
+msgstr "Alternativt sidehoved layout"
+
+#: inc/customizer.php:1158
+msgid "Unlimited Color Options"
+msgstr "Ubegrænsede farvevalg"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:119
+#: inc/customizer.php:1141 inc/customizer.php:1167
+msgid "View PRO version"
+msgstr "Vis PRO version"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:115
+#: inc/customizer.php:1161
+msgid "Shortcodes Section"
+msgstr "Kortkode sektion"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:113
+#: inc/customizer.php:1159
+msgid "Shop Section"
+msgstr "Butik sektion"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:100
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:116
+#: inc/customizer.php:1162
+msgid "Section Reordering"
+msgstr "Omorganisering af sektioner"
+
+#: inc/customizer.php:71
+msgid "Keep the old static frontpage template?"
+msgstr "Behold den gamle statiske forsideskabelon?"
+
+#: inc/customizer.php:860
+msgid "Disable the Frontpage Content section?"
+msgstr "Deaktiver forsidesektionen?"
+
+#: inc/customizer.php:842
+msgid "Frontpage content section"
+msgstr "Forsideindhold sektion"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:114
+#: inc/customizer.php:1160
+msgid "Portfolio Section"
+msgstr "Portefølge sektion"
+
+#. Template Name of the plugin/theme
+msgid "Eventbrite Events"
+msgstr "Eventbrite begivenheder"
+
+#: header.php:110 inc/customizer.php:247
+msgid "Call us: "
+msgstr "Ring til os:"
+
+#: inc/customizer.php:102
+msgid "Change the template to Full width for all the pages?"
+msgstr "Lav skabelonen om til fuld bredde på alle sider?"
+
+#: inc/customizer.php:253
+msgid "Text before the phone number"
+msgstr "Tekst før telefonnummeret."
+
+#: inc/customizer.php:368 inc/customizer.php:551
+msgid "Overlay color and transparency"
+msgstr "Overlagets farve og gennemsigtighed "
+
+#: inc/customizer.php:389 inc/customizer.php:434
+#: sections/llorix_one_lite_header_section.php:22
+msgid "Big title section"
+msgstr "Stor titel sektion"
+
+#: inc/customizer.php:563
+msgid "Logos Bar section"
+msgstr "Logobjælke sektion"
+
+#: inc/customizer.php:485
+msgid "Big title section background"
+msgstr "Stor titel sektion baggrund"
+
+#: inc/customizer.php:380
+msgid "Frontpage sections"
+msgstr "Forsidesektioner"
+
+#: inc/customizer.php:213
+msgid "Header"
+msgstr "Sidehoved"
+
+#: inc/admin/welcome-screen/sections/github.php:11
+msgid "How can I contribute?"
+msgstr "Hvordan kan jeg bidrage?"
+
+#: inc/admin/welcome-screen/sections/github.php:17
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Fundet en fejl? Vil du bidrage med et forslag til en rettelsen eller oprette en ny funktion?"
+
+#: inc/admin/welcome-screen/sections/github.php:32
+msgid "Get involved at WordPress.org."
+msgstr "Deltag hos WordPress.org"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:85
+msgid "Need further informations? Check this"
+msgstr "Brug for yderligere informationer? Tjek dette"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:85
+msgid "doc"
+msgstr "dokument"
+
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Are you a polyglot? Want to translate Llorix One Lite into your own language?"
+msgstr "Er du en polyglot? Har du lyst til at oversætte Llorix One Lite til dit modersmål?"
+
+#: inc/customize-pro/class-customizer-theme-info-root.php:85
+msgid "To customize the Frontpage sections please create a page and select the template \"Frontpage\" for that page. After that, go to Appearance -> Customize -> Static Front Page and under \"Static Front Page\" select \"A static page\". Finally, for \"Front page\" choose the page you previously created."
+msgstr "For at tilpasse forsiden, så opret en side og vælg skabelonen \"Forside\" til den side.Derefter skal du gå til Udseende -> Tilpas -> Statisk forside og under \"Statisk forside\" vælge \"En statisk side\". Og til sidst til \"Forside\" vælg den side, du oprettede tidligere."
+
+#: inc/customizer.php:163
+msgid "Llorix One Lite theme general appearance options"
+msgstr "Llorix One Lite temaets indstillinger for generelt udseende."
+
+#: inc/customizer.php:975 inc/customizer.php:1016
+msgid "Intergeo Maps"
+msgstr "Intergeo Maps"
+
+#: inc/customizer.php:975 inc/customizer.php:1016
+msgid " plugin then use it to create a map and paste here the shortcode generated"
+msgstr "pluginet og brug det derefter til at oprette et kort og indsæt derefter kortkoden her"
+
+#: inc/customizer.php:1000
+msgid "Create a form, copy the shortcode generated and paste it here. We recommend "
+msgstr "Opret en formular, kopier den genererede kortkode og indsæt den her. Vi anbefaler"
+
+#: inc/customizer.php:1000
+msgid " but you can use any plugin you like."
+msgstr "men du kan bruge et hvilket som helst plugin, som du ønsker."
+
+#: inc/customizer.php:975 inc/customizer.php:1016
+msgid "To use this section please install "
+msgstr "For at bruge denne sektion så installer venligst"
+
+#: inc/admin/welcome-screen/sections/support.php:18
+msgid "Support forum"
+msgstr "Supportforum"
+
+#: inc/admin/welcome-screen/sections/support.php:16
+msgid "Or would you like to contact us? Write on our support forum."
+msgstr "Eller vil du gerne kontakte os? Skriv til vores supportforum."
+
+#: inc/admin/welcome-screen/welcome-screen.php:179 inc/customizer.php:1164
+msgid "Support"
+msgstr "Hjælp"
+
+#: inc/admin/welcome-screen/sections/support.php:14
+msgid "Llorix One Lite documentation"
+msgstr "Llorix One Lite dokumentation"
+
+#: inc/admin/welcome-screen/sections/support.php:12
+msgid "Please check our full documentation for detailed information on how to use Llorix One."
+msgstr "Tjek vores udførlige dokumentation, hvis du ønsker detaljeret information om, hvordan du bruger Llorix One."
+
+#: inc/admin/welcome-screen/sections/support.php:11
+msgid "Need more details?"
+msgstr "Brug for flere detaljer?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:63
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "I den nedenstående dokumentation finder du en nem både, hvorpå du kan opbygge en landingsside ved at bruge en træk-og-slip indholdsbygger."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Byg en landingsside med en træk-og-slip indholdsbygger"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:145
+msgid "Easy Content Types"
+msgstr "Nemme indholdstyper"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:146
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "Brugerdefinerede indlægstyper, taksonomier og metabokse i løbet af minutter."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:156
+msgid "Download Easy Content Types"
+msgstr "Download nemme indholdstyper"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:167
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder af SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:168
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "Byg responsive sidelayouts med widgets, som du kender og elsker, ved hjælp af denne enkle træk-og-slip sidebygger."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:174
+msgid "Install Page Builder by SiteOrigin"
+msgstr "Installer Page Builder af SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/github.php:35
+msgid "Translate Llorix One Lite"
+msgstr "Oversæt Llorix One Lite"
+
+#: inc/admin/welcome-screen/sections/github.php:42
+msgid "Are you enjoying Llorix One Lite?"
+msgstr "Er du tilfreds med Llorix One Lite?"
+
+#. translators: %1$s is the leave a review link
+#: inc/admin/welcome-screen/sections/github.php:44
+msgid "Rate our theme on %1$sWordPress.org%1$s. We'd really appreciate it!"
+msgstr "Bedøm vores tema på %1$sWordPress.org%1$s. Det vil vi virkelig værdsætte."
+
+#: inc/customizer.php:920
+msgid "Contact info section"
+msgstr "Kontaktinformation sektion"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:107
+msgid "Llorix One Companion"
+msgstr "Llorix One håndbogen"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:118
+msgid "Install Llorix One Companion"
+msgstr "Installer Llorix One håndbogen"
+
+#: inc/customizer.php:581
+msgid "Disable the Logos bar sections?"
+msgstr "Deaktiver logobjælke sektionen?"
+
+#: inc/customizer.php:238
+msgid "Disable the Very top header?"
+msgstr "Deaktiver helt øverste sidehovede?"
+
+#: inc/customizer.php:631
+msgid "Disable the About section?"
+msgstr "Deaktiver Om sektionen?"
+
+#: inc/customizer.php:716
+msgid "Disable the Ribbon section?"
+msgstr "Deaktiver Bånd sektionen?"
+
+#: inc/customizer.php:938
+msgid "Disable the Contact info section?"
+msgstr "Deaktiver Kontaktinformation sektionen?"
+
+#: inc/customizer.php:816
+msgid "Disable the Latest news section?"
+msgstr "Deaktiver Seneste nyt sektionen?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:108
+msgid "The Llorix One Companion plugin is a simple, easy and in the same time quite powerful plugins that adds options for Our Services, Our Team and Testimonials sections on frontpage."
+msgstr "Llorix One håndbogspluginet er et enkelt, nemt og på samme tid stærke plugins der tilføjer muligheder til Vores ydelser, Vores team og Referencer sektionerne på forsiden."
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Fuld bredde"
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr "Kontakt"
+
+#: sidebar.php:13
+msgid "Main sidebar"
+msgstr "Hovedsidebar"
+
+#: sections/llorix_one_lite_ribbon_section.php:38
+#: sections/llorix_one_lite_ribbon_section.php:40
+#: sections/llorix_one_lite_ribbon_section.php:83
+#: sections/llorix_one_lite_ribbon_section.php:85
+msgid "Ribbon"
+msgstr "Bånd"
+
+#: sections/llorix_one_lite_ribbon_section.php:62
+#: sections/llorix_one_lite_ribbon_section.php:64
+#: sections/llorix_one_lite_ribbon_section.php:108
+#: sections/llorix_one_lite_ribbon_section.php:110
+msgid "Ribbon button label:"
+msgstr "Bånd knapetiket "
+
+#: sections/llorix_one_lite_our_story_section.php:30
+#: sections/llorix_one_lite_our_story_section.php:35
+msgid "About"
+msgstr "Om"
+
+#: sections/llorix_one_lite_logos_section.php:21
+#: sections/llorix_one_lite_logos_section.php:35
+msgid "Affiliates Logos"
+msgstr "Logoer for affiliates"
+
+#. translators: %s is the title
+#. translators: %s is the post name
+#: sections/llorix_one_lite_latest_news_section.php:116
+#: sections/llorix_one_lite_latest_news_section.php:233
+msgid "Read more %s"
+msgstr "Læs mere %s"
+
+#: sections/llorix_one_lite_latest_news_section.php:106
+#: sections/llorix_one_lite_latest_news_section.php:220
+msgid "by"
+msgstr "af"
+
+#: sections/llorix_one_lite_header_section.php:109
+#: sections/llorix_one_lite_header_section.php:112
+#: sections/llorix_one_lite_header_section.php:114
+msgid "Header button label:"
+msgstr "Sidehoved knapetiket:"
+
+#: sections/llorix_one_lite_latest_news_section.php:34
+#: sections/llorix_one_lite_latest_news_section.php:150
+msgid "Latest blog posts"
+msgstr "Seneste blogindlæg"
+
+#. translators: %s is the title
+#: sections/llorix_one_lite_latest_news_section.php:77
+#: sections/llorix_one_lite_latest_news_section.php:191
+msgid "Latest News: %s"
+msgstr "Seneste nyt: %s"
+
+#: sections/llorix_one_lite_latest_news_section.php:53
+#: sections/llorix_one_lite_latest_news_section.php:167
+msgid "Post slider navigation: Up"
+msgstr "Slider-navigation for indlæg: Op"
+
+#: sections/llorix_one_lite_latest_news_section.php:52
+#: sections/llorix_one_lite_latest_news_section.php:166
+msgid "Post slider navigation: Down"
+msgstr "Slider-navigation for indlæg: Ned"
+
+#: sections/llorix_one_lite_contact_info_section.php:22
+#: sections/llorix_one_lite_contact_info_section.php:33
+msgid "Contact Info"
+msgstr "Kontaktinformation"
+
+#. translators: %s is the search query
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: inc/template-tags.php:97
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:97
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:97
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#. translators: %1$s is the tags list
+#: inc/template-tags.php:91
+msgid "Tagged %1$s"
+msgstr "Tagget %1$s"
+
+#. translators: %1$s is the categories list
+#: inc/template-tags.php:84
+msgid "Posted in %1$s"
+msgstr "Udgivet i %1$s"
+
+#. translators: %s is the post author
+#: inc/template-tags.php:64
+msgctxt "post author"
+msgid "by %s"
+msgstr "af %s"
+
+#. translators: %s is the date
+#: inc/template-tags.php:59
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Udgivet den %s"
+
+#: inc/template-tags.php:30
+msgid "Newer posts"
+msgstr "Nyere indlæg"
+
+#: inc/template-tags.php:26
+msgid "Older posts"
+msgstr "Ældre indlæg"
+
+#. translators: %s is the page title
+#: inc/extras.php:53
+msgid "Page %s"
+msgstr "Side %s"
+
+#: inc/customizer.php:86
+msgid "Disable preloader?"
+msgstr "Deaktiver indlæsningindikator?"
+
+#: inc/customizer.php:87
+msgid "If this box is checked, the preloader will be disabled from homepage."
+msgstr "Hvis denne boks er markeret, så vil indlæsningindikator være deaktiveret på forsiden."
+
+#: inc/customizer.php:32
+msgid "Llorix One Lite theme general options"
+msgstr "Llorix One Lite temaets generelle indstillinger"
+
+#: inc/customizer.php:30
+msgid "Advanced options"
+msgstr "Avancerede indstilllinger"
+
+#: inc/customizer.php:955
+msgid "Add new contact field"
+msgstr "Tilføj nyt kontaktfelt"
+
+#: inc/customizer.php:974 inc/customizer.php:1015
+msgid "Map shortcode"
+msgstr "Kortkode til kort"
+
+#: inc/customizer.php:985
+msgid "Contact page"
+msgstr "Kontaktside"
+
+#: inc/customizer.php:999
+msgid "Contact form shortcode"
+msgstr "Kontaktformular kortkode"
+
+#: inc/customizer.php:1026
+msgid "Footer options"
+msgstr "Indstillinger sidefod"
+
+#: inc/customizer.php:1028
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Footer area. "
+msgstr "Hovedindholdet i denne sektion kan tilpasses her: Tilpas -> Widgets -> Sidefodsområde."
+
+#: inc/customizer.php:1048
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer.php:302
+msgid "Blog header"
+msgstr "Blog sidehoved"
+
+#: inc/customizer.php:825 sections/llorix_one_lite_latest_news_section.php:30
+#: sections/llorix_one_lite_latest_news_section.php:147
+msgid "Latest news"
+msgstr "Seneste nyheder"
+
+#: inc/customizer.php:613 inc/customizer.php:657
+#: sections/llorix_one_lite_our_story_section.php:21
+msgid "About section"
+msgstr "Om sektionen"
+
+#: inc/customizer.php:640 sections/llorix_one_lite_our_story_section.php:16
+msgid "Our Story"
+msgstr "Vores historie"
+
+#: inc/customizer.php:733
+msgid "Ribbon Background"
+msgstr "Bånd baggrund"
+
+#: inc/customizer.php:698 inc/customizer.php:744
+#: sections/llorix_one_lite_ribbon_section.php:19
+msgid "Ribbon section"
+msgstr "Bånd sektion"
+
+#: inc/customizer.php:798
+msgid "Latest news section"
+msgstr "Seneste nyt sektion"
+
+#: inc/customizer.php:269
+msgid "Phone number"
+msgstr "Telefon nummer"
+
+#: inc/customizer.php:498
+msgid "Parallax effect"
+msgstr "Parallax effekt"
+
+#: inc/customizer.php:499
+msgid "If this box is checked, the parallax effect is enabled."
+msgstr "Hvis denne boks er markeret, er parallax-effekten aktiveret."
+
+#: inc/customizer.php:516
+msgid "First layer"
+msgstr "Første lag"
+
+#: inc/customizer.php:534
+msgid "Second layer"
+msgstr "Andet lag"
+
+#: inc/customizer.php:220
+msgid "Very top header"
+msgstr "Helt øverste sidehovede"
+
+#: header.php:108 inc/customizer.php:262
+msgid "(+9) 0999.500.400"
+msgstr "(+9) 0999.500.400"
+
+#: inc/customizer.php:287 inc/customizer.php:1063
+msgid "Add new social icon"
+msgstr "Tilføj et nyt socialikon"
+
+#: inc/customizer.php:908
+msgid "Background"
+msgstr "Baggrund"
+
+#: inc/customizer.php:476 inc/customizer.php:788
+msgid "Button link"
+msgstr "Knaplink"
+
+#: inc/customizer.php:461 inc/customizer.php:772
+msgid "Button label"
+msgstr "Knap tekst"
+
+#: inc/customizer.php:469 inc/customizer.php:781
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:424 inc/customizer.php:647 inc/customizer.php:756
+#: inc/customizer.php:832
+msgid "Main title"
+msgstr "Hovedtitel"
+
+#: inc/customizer.php:454 inc/customizer.php:765
+#: sections/llorix_one_lite_header_section.php:28
+#: sections/llorix_one_lite_ribbon_section.php:25
+msgid "GET STARTED"
+msgstr "KOM I GANG"
+
+#: inc/customizer.php:417 sections/llorix_one_lite_header_section.php:17
+msgid "Simple, Reliable and Awesome."
+msgstr "Enkel, pålidelig og fremragende."
+
+#: inc/customizer.php:407
+msgid "Header Logo"
+msgstr "Sidehoved logo"
+
+#: inc/customizer.php:194
+msgid "Header visibility"
+msgstr "Sidehoved synlighed"
+
+#: inc/customizer.php:195
+msgid "If this box is checked, the header will toggle on frontpage."
+msgstr "Hvis denne boks er markeret, vil sidehovedet skifte på forsiden."
+
+#: inc/customizer.php:670 inc/customizer.php:884
+msgid "Content"
+msgstr "Nulstil til standard søgeformularens indhold"
+
+#: inc/customizer.php:178 inc/extras.php:95 inc/extras.php:100
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:151
+msgid "Title color"
+msgstr "Titelfarve"
+
+#: inc/customizer.php:161
+msgid "General options"
+msgstr "Generelle indstillinger"
+
+#: inc/customizer.php:132
+msgid "Text color"
+msgstr "Tekstfarve"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:112
+msgid "Add new field"
+msgstr "Tilføj nyt felt"
+
+#: inc/customizer.php:115
+msgid "Appearance"
+msgstr "Udseende"
+
+#: inc/customizer.php:987
+msgid "To customize the Contact Page you need to first select the template \"Contact page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
+msgstr "For at tilpasse Kontaktsiden skal du først vælge skabelonen \"Kontaktside\" på den den side, som du ønsker at bruge til dette formål. Åbn derefter denne side i en browser og klik \"Tilpas\" i topbjælken."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:352
+#: inc/customizer-repeater/class/customizer-repeater-control.php:429
+msgid "Delete field"
+msgstr "Slet felt"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:327
+#: inc/customizer-repeater/class/customizer-repeater-control.php:417
+msgid "Shortcode"
+msgstr "Kortkode"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:317
+#: inc/customizer-repeater/class/customizer-repeater-control.php:408
+#: inc/customizer-repeater/class/customizer-repeater-control.php:580
+#: inc/customizer-repeater/class/customizer-repeater-control.php:610
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:308
+#: inc/customizer-repeater/class/customizer-repeater-control.php:399
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:299
+#: inc/customizer-repeater/class/customizer-repeater-control.php:390
+#: inc/customizer.php:333 inc/customizer.php:445
+msgid "Subtitle"
+msgstr "Undertitel"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer-repeater/class/customizer-repeater-control.php:381
+#: inc/customizer.php:318
+msgid "Title"
+msgstr "Titel"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:527
+msgid "Upload Image"
+msgstr "Upload billede"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:546
+msgid "None"
+msgstr "Ingen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:524
+#: inc/customizer-repeater/class/customizer-repeater-control.php:545
+#: inc/customizer.php:351 inc/customizer.php:687
+msgid "Image"
+msgstr "Billede"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:477
+#: inc/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/admin/welcome-screen/welcome-screen.php:180
+msgid "Change log"
+msgstr "Change log"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "Image type"
+msgstr "Billedtype"
+
+#: inc/admin/welcome-screen/welcome-screen.php:95
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hurra! Der kræves ingen handlinger fra din side lige nu."
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "GitHub is the place to go!"
+msgstr "GitHub er stedet at gå til!"
+
+#: inc/admin/welcome-screen/welcome-screen.php:176
+msgid "Actions recommended"
+msgstr "Anbefalede handinger"
+
+#: inc/admin/welcome-screen/welcome-screen.php:178
+msgid "Contribute"
+msgstr "Bidrag"
+
+#: inc/admin/welcome-screen/sections/github.php:22
+msgid "Llorix One Lite on GitHub"
+msgstr "Llorix One Lite på GitHub"
+
+#: inc/admin/welcome-screen/welcome-screen.php:61
+msgid "Get started with Llorix One Lite"
+msgstr "Kom i gang med Llorix One Lite"
+
+#. translators: %1$s is the link
+#: inc/admin/welcome-screen/welcome-screen.php:60
+msgid "Welcome! Thank you for choosing Llorix One Lite! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%1$s."
+msgstr "Velkommen! Tak fordi du valgte Llorix One Lite! For at få fuldt udbytte af, hvad dette tema kan tilbyde, så vær venlig at besøge vores %1$svelkomstside%1$s."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:127
+msgid "Makes your contact page more engaging by creating a good-looking contact form on your website. The interaction with your visitors was never easier."
+msgstr "Gør din kontaktside mere engagerende ved at oprette en lækker kontaktformular på dit websted. Interaktionen med dine besøgene har aldrig været nemmere."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:137
+msgid "Install Pirate Forms"
+msgstr "Installer Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:102
+msgid "Recommended plugins"
+msgstr "Anbefalede plugins"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:95
+msgid "Read full documentation"
+msgstr "Læs udførlige dokumentation."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:182
+msgid "Intergeo Maps - Google Maps Plugin"
+msgstr "Intergeo Maps - Google Maps Plugin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:183
+msgid "The Intergeo Google Maps plugin is a simple, easy and in the same time quite powerful tool for handling Google Maps in your website. The plugin allows users to create new maps by using powerful UI builder."
+msgstr "The Intergeo Google Maps plugin er et enkelt, nemt og samtidigt stærkt værktøj til til at håndtere Google Maps på dit websted. Pluginet tillader brugere at oprette nye kort ved at bruge en effektiv UI bygger."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:112
+#: inc/admin/welcome-screen/sections/getting-started.php:131
+#: inc/admin/welcome-screen/sections/getting-started.php:150
+#: inc/admin/welcome-screen/sections/getting-started.php:170
+#: inc/admin/welcome-screen/sections/getting-started.php:187
+#: inc/admin/welcome-screen/sections/getting-started.php:205
+#: inc/admin/welcome-screen/sections/getting-started.php:224
+msgid "Already activated"
+msgstr "Allerede aktiveret"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:193
+msgid "Install Intergeo Maps"
+msgstr "Installer Intergeo Maps"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:126
+#: inc/customizer.php:1000
+msgid "Pirate Forms"
+msgstr "Pirate formularer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:94
+msgid "Need more details? Please check our full documentation for detailed information on how to use Llorix One."
+msgstr "Brug for flere detaljer? Tjek venligst vores udførlige dokumentation for mere detaljeret information om hvordan du bruger Llorix One."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:53
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Hvis du vil lave ændringer i temaets filer, så vil disse sandsynligvis blive overskrevet næste gang temaet bliver opdateret. For at undgå det sker, skal du oprette et undertema. Ønsker du det, så følg vejledningen i nedenstående dokumentation."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+#: inc/admin/welcome-screen/sections/getting-started.php:59
+#: inc/admin/welcome-screen/sections/getting-started.php:64
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+#: inc/admin/welcome-screen/sections/getting-started.php:78
+#: inc/admin/welcome-screen/sections/getting-started.php:84
+msgid "View how to do this"
+msgstr "Se hvordan du gør dette"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:57
+msgid "How to Internationalize Your Website"
+msgstr "Hvordan du gør dit websted internationalt."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:58
+msgid "Although English is the most used language on the internet, you should consider all your web users as well. Find out what it takes to make your website ready for foreign markets from this document."
+msgstr "Selvom engelsk er det mest benyttede sprog på internettet, så skal du tilgodese alle dine brugere. Find ud af hvad der skal til for at klargøre dit websted til udenlandske markeder i dette dokument."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:70
+msgid "Speed up your site"
+msgstr "Få fart på dit websted"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:71
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Hvis du oplever at alt på dit websted kører meget langsomt, så bør du overveje at se på dokumentationen herunder, hvor du vil finde de mest almindelige årsager til dette, samt mulige løsninger for disse problemer."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:76
+msgid "Link Menu to sections"
+msgstr "Link-menu til sektioner"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:77
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "At linke forsidensektionerne med topmenuen er meget simpelt. Alt hvad du skal gøre er at tildele sektionsankre til menuen. I dokumentationen herunder finder du en fin vejledning til dette."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:93
+msgid "View full documentation"
+msgstr "Vis den udførlige dokumentation."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:82
+msgid "Change anchors"
+msgstr "Skift ankre"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:83
+msgid "To better suit your site's needs, you can change each section's anchor to what you want. The entire process is described below."
+msgstr "For bedre at passe til dit websteds behov, kan du ændre hver sektions ankre, som du ønsker. Hele processen er beskrevet herunder."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:52
+msgid "Create a child theme"
+msgstr "Opret et undertema"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:46
+msgid "FAQ"
+msgstr "<span title=\"Ofte stillede spørgsmål\">FAQ</span>"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "Customize everything in a single place."
+msgstr "Tilpas det hele det samme sted."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:37
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Ved at bruge WordPress-tilpasseren kan du nemt tilrette alle dele af temaet. "
+
+#: inc/admin/welcome-screen/sections/getting-started.php:38
+msgid "Go to Customizer"
+msgstr "Gå til tilpasseren"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:34
+#: inc/admin/welcome-screen/welcome-screen.php:175
+msgid "Getting started"
+msgstr "Kom godt i gang"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:25
+msgid "Our most elegant and professional one-page theme, which turns your scrolling into a smooth and pleasant experience."
+msgstr "Vores mest elegante og professionelle enkeltside-tema, som gør din rulning til en smidig og behagelig oplevelse."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:11
+msgid "Keep up with Llorix One Lite's recommended actions"
+msgstr "Hold øje med Llorix One Lites anbefalede tiltag"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:83
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr "Hurra! Der er anbefalede tiltag til dig lige nu,"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "Welcome to Llorix One Lite!"
+msgstr "Velkommen til Llorix One Lite!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "We want to make sure you have the best experience using Llorix One Lite and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Llorix One Lite, as much as we enjoy creating great products."
+msgstr "Vi vil være sikre på at du har den bedste oplevelse med Llorix One Lite og derfor har vi samlet al relevant information til dig. Vi håber, du vil nyde at Llorix One Lite lige så meget, som vi holder af at skabe lækre produkter."
+
+#: header.php:177
+msgid "Toggle Menu"
+msgstr "Skift Menu"
+
+#: header.php:147 header.php:151
+msgid "Call us:"
+msgstr "Ring til os:"
+
+#: header.php:178
+msgid "Toggle navigation"
+msgstr "Skift navigation"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Videre til indhold"
+
+#: functions.php:656
+msgid "Read more about "
+msgstr "Læs mere om"
+
+#: functions.php:591
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l j. F Y H:i"
+
+#. translators: %1$s is the date of the comment and %2$s is the comment title
+#: functions.php:594
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#. translators: %s is the author link
+#: functions.php:583
+msgid "<span itemprop=\"name\">%s </span><span class=\"says\">says:</span>"
+msgstr "<span itemprop=\"name\">%s </span><span class=\"says\">siger:</span>"
+
+#: functions.php:586
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer bed&#248;mmelse."
+
+#: functions.php:572 functions.php:598
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: functions.php:572
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:320
+msgid "collapse child menu"
+msgstr "minimer undermenu"
+
+#: functions.php:319
+msgid "expand child menu"
+msgstr "udvid undermenu"
+
+#. translators: %d is the number of footer sidebars registered
+#: functions.php:257
+msgid "Footer area %d"
+msgstr "Område i sidefoden %d"
+
+#: functions.php:244
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:154
+msgid "Switch \"Front page displays\" to \"A static page\" "
+msgstr "Skift \"Forside viser\" til \"En statisk side\""
+
+#: functions.php:160
+msgid "Install Intergeo Maps - Google Maps Plugin"
+msgstr "Installer Intergeo Maps - et Google Maps plugin"
+
+#: functions.php:161
+msgid "In order to use map section, you need to install Intergeo Maps plugin then use it to create a map and paste the generated shortcode in Customize -> Contact section -> Map shortcode"
+msgstr "For at bruge kortsektionen, skal du installere Intergeo Maps pluginet og derefter bruge det til at oprette et kort og indsætte den kortkode, der er er lavet, i Tilpas -> Kontaktsektion -> Kort kortkode."
+
+#: functions.php:155
+msgid "In order to have the one page look for your website, please go to Customize -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "For at opnå et ensides udseende på dit websted, så gå venligst til Tilpas -> Statisk forside og skift \"Forside viser\" til \"En statisk side\" Vælg derefter skabelonen \"Forside\" til denne udvalgte side."
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr "Menu i sidefoden"
+
+#: functions.php:47 functions.php:759 header.php:232
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+#: footer.php:92
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:92
+msgid "powered by"
+msgstr "drevet af "
+
+#: footer.php:72 footer.php:73
+msgid "Secondary Menu"
+msgstr "Sekundær menu"
+
+#: sections/llorix_one_lite_latest_news_section.php:78
+#: sections/llorix_one_lite_latest_news_section.php:103
+#: sections/llorix_one_lite_latest_news_section.php:192
+#: sections/llorix_one_lite_latest_news_section.php:217
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l j. F Y H:i"
+
+#: content.php:51
+msgid "Posted in"
+msgstr "Udgivet i"
+
+#: footer.php:18
+msgid "Widgets Area 1"
+msgstr "Widget-område 1"
+
+#: footer.php:27
+msgid "Widgets Area 2"
+msgstr "Widget-område 2"
+
+#: footer.php:36
+msgid "Widgets Area 3"
+msgstr "Widget-område 3"
+
+#: footer.php:45
+msgid "Widgets Area 4"
+msgstr "Widget-område 4"
+
+#. translators: %s is the post title
+#: content.php:9
+msgid "Blog post: %s"
+msgstr "Blogindlæg: %s"
+
+#: content-search.php:86 content.php:80
+msgid "about "
+msgstr "Om"
+
+#. translators: %s is the post title
+#. translators: %s is the post link
+#: content-search.php:86 content.php:80
+msgid "Read more %s ..."
+msgstr "Læs mere %s ..."
+
+#: content-search.php:72 content-single.php:30 content.php:66
+msgid "% comments"
+msgstr "% kommentarer"
+
+#: content-search.php:72 content-single.php:30 content.php:66
+msgid "One comment"
+msgstr "En kommentar"
+
+#: content-search.php:72 content-single.php:30 content.php:66
+msgid "No comments"
+msgstr "Ingen kommentarer"
+
+#: content-search.php:58
+msgid "Posted in "
+msgstr "Udgivet i"
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:52 content.php:54 inc/template-tags.php:81
+#: inc/template-tags.php:88
+msgid ", "
+msgstr ", "
+
+#: content-page-no-title.php:16 content-page.php:32 content-search.php:93
+#: content-single-download.php:30 content-single.php:40 content.php:87
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ud til, at vi ikke kan finde det, du leder efter. Måske vil en søgning hjælpe."
+
+#: content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men din søgning gav ingen resultater. Prøv igen med nogle andre søgeord."
+
+#. translators: %1$s is the link to add a new post
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: content-contact.php:37 content-page-no-title.php:24 content-page.php:40
+#: eventbrite/eventbrite-index.php:61 eventbrite/eventbrite-single.php:59
+#: inc/template-tags.php:101
+msgid "Edit"
+msgstr "Rediger"
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:41 comments.php:70
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:40 comments.php:69
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: comments.php:37 comments.php:66
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#. translators: %1$s is the number of comments and %2$s is the post title
+#: comments.php:26
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanker om &ldquo;%2$s&rdquo;"
+
+#: class-tgm-plugin-activation.php:3401
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3400
+msgid "All installations have been completed."
+msgstr "Alle installationer er afsluttet."
+
+#: class-tgm-plugin-activation.php:3398
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen er påbegyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#: class-tgm-plugin-activation.php:3399
+msgid "%1$s installed successfully."
+msgstr "%1$s installeret korrekt."
+
+#: class-tgm-plugin-activation.php:3395
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer og aktiverer plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3394
+msgid "All installations and activations have been completed."
+msgstr "Alle installationer og aktiveringer er afsluttet."
+
+#: class-tgm-plugin-activation.php:3393 class-tgm-plugin-activation.php:3399
+msgid "Hide Details"
+msgstr "Skjul enkeltheder"
+
+#: class-tgm-plugin-activation.php:3393 class-tgm-plugin-activation.php:3399
+msgid "Show Details"
+msgstr "Vis enkeltheder"
+
+#: class-tgm-plugin-activation.php:3393
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeret og aktiveret korrekt."
+
+#: class-tgm-plugin-activation.php:3388
+msgid "The installation of %1$s failed."
+msgstr "Installationen af %1$s fejlede."
+
+#: class-tgm-plugin-activation.php:3392
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen og aktiveringsprocessen er begyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#: class-tgm-plugin-activation.php:3387
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Der opstod en fejl under installation %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3385
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Opdaterer plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3047
+msgid "Plugin activation failed."
+msgstr "Aktivering af plugin mislykkedes."
+
+#: class-tgm-plugin-activation.php:2833
+msgid "No plugins are available to be activated at this time."
+msgstr "Ingen plugins tilgængelige til at blive aktiveret lige nu."
+
+#: class-tgm-plugin-activation.php:2700
+msgid "No plugins are available to be installed at this time."
+msgstr "Ingen plugins tilgængelige til at installere lige nu."
+
+#: class-tgm-plugin-activation.php:2702
+msgid "No plugins are available to be updated at this time."
+msgstr "Ingen plugins er tilgængelige til at blive opdateret lige nu."
+
+#: class-tgm-plugin-activation.php:2807
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ingen plugins er valgt til at blive aktiveret. Ingen handlinger foretaget"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ingen plugins blev valgt til installering. Ingen handlinger foretaget."
+
+#: class-tgm-plugin-activation.php:2664
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ingen plugins er valgt til at blive opdateret. Ingen handlinger foretaget."
+
+#: class-tgm-plugin-activation.php:2631 functions.php:200
+msgid "Activate"
+msgstr "Aktiver"
+
+#: class-tgm-plugin-activation.php:2628
+msgid "Update"
+msgstr "Opdater"
+
+#: class-tgm-plugin-activation.php:2622 functions.php:199
+#: inc/admin/welcome-screen/sections/getting-started.php:211
+#: inc/admin/welcome-screen/sections/getting-started.php:230
+msgid "Install"
+msgstr "Installer"
+
+#: class-tgm-plugin-activation.php:2589
+msgid "Upgrade message from the plugin author:"
+msgstr "Opgraderingsbesked fra plugin-forfatteren."
+
+#: class-tgm-plugin-activation.php:2514
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Opdater %2$s"
+
+#: class-tgm-plugin-activation.php:2519
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktiver %2$s"
+
+#: class-tgm-plugin-activation.php:2510
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: class-tgm-plugin-activation.php:2462
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2461
+msgid "Version"
+msgstr "Version"
+
+#: class-tgm-plugin-activation.php:2457
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2456
+msgid "Source"
+msgstr "Kilde"
+
+#: class-tgm-plugin-activation.php:2455
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2418
+msgid "Available version:"
+msgstr "Tilgængelige versioner:"
+
+#: class-tgm-plugin-activation.php:2441
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Ingen plugins at installere, opdatere eller aktivere. <a href=\"%1$s\">Tilbage til Kontrolpanel</a>"
+
+#: class-tgm-plugin-activation.php:2390
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ukendt"
+
+#: class-tgm-plugin-activation.php:2398
+msgid "Installed version:"
+msgstr "Installeret version:"
+
+#: class-tgm-plugin-activation.php:2406
+msgid "Minimum required version:"
+msgstr "Version der kræves som minimum:"
+
+#: class-tgm-plugin-activation.php:2308
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "At aktivere <span class=\"count\">(%s)</span>"
+msgstr[1] "At aktivere <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2305
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Opdatering tilgængelig <span class=\"count\">(%s)</span>"
+msgstr[1] "Opdateringer tilgængelige <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2302
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "At installere <span class=\"count\">(%s)</span>"
+msgstr[1] "At installere <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2299
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2254
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2240
+msgid "Required Update not Available"
+msgstr "Krævede opdatering er ikke tilgængelig"
+
+#: class-tgm-plugin-activation.php:2243
+msgid "Requires Update"
+msgstr "Kræver opdatering"
+
+#: class-tgm-plugin-activation.php:2246
+msgid "Update recommended"
+msgstr "Anbefalet opdatering"
+
+#: class-tgm-plugin-activation.php:2234
+msgid "Active"
+msgstr "Aktiv"
+
+#: class-tgm-plugin-activation.php:2232
+msgid "Installed But Not Activated"
+msgstr "Installeret men ikke aktiveret"
+
+#: class-tgm-plugin-activation.php:2228
+msgid "Not Installed"
+msgstr "Ikke installeret"
+
+#: class-tgm-plugin-activation.php:2211
+msgid "Pre-Packaged"
+msgstr "Færdigpakkede"
+
+#: class-tgm-plugin-activation.php:2208
+msgid "External Source"
+msgstr "Ekstern kilde"
+
+#: class-tgm-plugin-activation.php:2205
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "Recommended"
+msgstr "Anbefalet"
+
+#: class-tgm-plugin-activation.php:1900
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "Required"
+msgstr "Påkrævet"
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Den fjerntliggende plugin-pakke indeholder ikke en mappe med det forventede kortlink og omdøbning kunne derfor ikke lade sig gøre."
+
+#: class-tgm-plugin-activation.php:938 class-tgm-plugin-activation.php:946
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Kontakt venligst udbyderen af dette plugin og bed dem pakke deres plugin i henhold til retningslinjerne for WordPress."
+
+#: class-tgm-plugin-activation.php:946
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Den fjentliggende plugin-pakke indeholder mere end én fil, men filerne er ikke pakket i en mappe."
+
+#: class-tgm-plugin-activation.php:1128 class-tgm-plugin-activation.php:2847
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "og"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Indstil parent_slug config variabel istedet."
+
+#: class-tgm-plugin-activation.php:830 class-tgm-plugin-activation.php:3461
+msgid "Return to the Dashboard"
+msgstr "Retur til kontrolpanel"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakt venligst administratoren af dette websted for at få hjælp."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dette plugin skal opdateres for at kunne bruges med dit tema."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Opdatering krævet"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Afvis denne meddelelse"
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins blev installeret og aktiveret succesfuldt. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin ikke aktiveret. En højere version af %s er krævet for dette tema. Opdater venligst plugin."
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2851
+msgid "The following plugin was activated successfully:"
+msgstr "Følgende plugin blev succesfuldt aktiveret"
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen handlinger foretaget. Plugin %1$s var allerede aktivt."
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3048
+msgid "Plugin activated successfully."
+msgstr "Plugin succesfuldt aktiveret."
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Retur til kontrolpanel"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Starter aktivering af plugin"
+msgstr[1] "Starter aktivering af plugins"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Vend tilbage til Påkrævede plugins Installation"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Start på at opdatere plugin"
+msgstr[1] "Start på at opdatere plugins"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Beklager, men du har ikke tilstrækkelige rettigheder til at aktivere %1$s pluginet."
+msgstr[1] "Beklager, men du har ikke tilstrækkelige rettigheder til at aktivere %1$s pluginene."
+
+#: class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Starter installation af plugin"
+msgstr[1] "Starter installation af plugins"
+
+#: class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Følgende anbefalet plugin er i øjeblikket inaktiv: %1$s."
+msgstr[1] "Følgende anbefalet plugins er i øjeblikket inaktive: %1$s."
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Der er en opdatering tilgængelig for: %1$s."
+msgstr[1] "Der er opdateringer tilgængelige for: %1$s."
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Beklager, men du har ikke tilstrækkelige rettigheder til at opdatere %1$s pluginet."
+msgstr[1] "Beklager, men du har ikke tilstrækkelige rettigheder til at opdatere %1$s pluginene."
+
+#: class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Følgende krævede plugin er i øjeblikket inaktiv: %1$s."
+msgstr[1] "Følgende krævede plugins er i øjeblikket inaktive: %1$s."
+
+#: class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Følgende plugin skal opdateres for at sikre fuld forenelighed med temaet: %1$s "
+msgstr[1] "Følgende plugins skal opdateres for at sikre fuld forenelighed med temaet: %1$s "
+
+#: class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dette tema anbefaler følgende plugin: %1$s."
+msgstr[1] "Dette tema anbefaler følgende plugins: %1$s."
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Beklager, men du har ikke tilstrækkelige rettigheder til at installere %1$s pluginet."
+msgstr[1] "Beklager, men du har ikke tilstrækkelige rettigheder til at installere %1$s pluginene."
+
+#: class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dette tema kræver følgende plugin: %1$s."
+msgstr[1] "Dette tema kræver følgende plugins: %1$s."
+
+#: class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Noget gik galt med plugin API."
+
+#: class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Installerer plugin: %s"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Installer plugins"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Installer de krævede plugins"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ud til at intet blev fundet på denne placering. Måske skulle du prøve én af de ​​nedenstående links eller en søgning?"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hov! Den side findes ikke."
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com/"
+msgstr "http://themeisle.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/llorix-one/"
+msgstr "http://themeisle.com/themes/llorix-one/"

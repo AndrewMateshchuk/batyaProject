@@ -1,0 +1,159 @@
+# Translation of Themes - Naturelle in Korean
+# This file is distributed under the same license as the Themes - Naturelle package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-30 01:27:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Naturelle\n"
+
+#. Description of the plugin/theme
+msgid "Naturelle is a free and beautiful free themes focused on nature, eco, earthy or organic related businesses, but provides a simple and professional look that can be used for any kind of businesses or startups. Naturelle has a green & orange appearance, with buttons and icons promoting simplicity and elegance at their best. The theme provides a responsive blog section, is ecommerce ready (WooCommerce compatible), WPML and SEO friendly. You can use it for your business / startup, shops, corporate enviromental websites, or portfolios."
+msgstr "Naturelle는 아름다운 무료 테마로 자연, 환경 또는 유기농에 관련된 비지니스에 중점을 두었습니다. 하지만 심플하고 전문적인 모양이므로 다른 종유의 비지니스나 스타트업에도 사용될 수 이씃비낟. Naturelle는 녹색과 오렌지 색 모양이 있으며 버튼, 아이콘은 심플함과 우아함을 강조할 수 있습니다. 테마는 반응형 블로그 영역을 제공하며 이커머스(우커머스 호환), WPML, SEO 친화적입니다. 비지니스 / 스타트업, 상점, 기업 환경 웹사이트 또는 포트폴리오에 사용할 수 있습니다."
+
+#: functions.php:239
+msgid "Header button label:"
+msgstr "헤더 버튼 레이블:"
+
+#: functions.php:182
+msgid "Website"
+msgstr "웹사이트"
+
+#: functions.php:177
+msgid "Email"
+msgstr "이메일 주소"
+
+#: functions.php:172
+msgid "Name"
+msgstr "이름"
+
+#: functions.php:160
+msgid "Continue Reading "
+msgstr "계속 읽기"
+
+#: functions.php:126
+msgid "Button link"
+msgstr "버튼 링크"
+
+#: functions.php:121 functions.php:237
+msgid "#"
+msgstr "#"
+
+#: functions.php:114
+msgid "Button text"
+msgstr "버튼 텍스트"
+
+#: functions.php:109 functions.php:236
+msgid "Learn more"
+msgstr "더 배우기"
+
+#: functions.php:102
+msgid "Main title"
+msgstr "메인 타이틀"
+
+#: functions.php:97 functions.php:224
+msgid "Notable partners"
+msgstr "유명한 파트너"
+
+#: functions.php:79
+msgid "WordPress"
+msgstr "워드프레스"
+
+#: functions.php:79
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  naturelle.pot (Naturelle 1.0.5)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions.php:78
+msgid "Naturelle"
+msgstr "Naturelle"
+
+#: functions.php:77
+msgid "%1$s powered by %2$s"
+msgstr "%1$s powered by %2$s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:52
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "사용"
+
+#: content-search.php:55 content-single.php:49 content.php:68
+msgid "Pages:"
+msgstr "페이지:"
+
+#: content-search.php:50 content.php:63
+msgid "about "
+msgstr "소개 "
+
+#: content-search.php:50 content.php:63
+msgid "Read more %s ..."
+msgstr "더보기 %s..."
+
+#: content-search.php:41 content.php:28
+msgid "% comments"
+msgstr "%개의 댓글"
+
+#: content-search.php:41 content.php:28
+msgid "One comment"
+msgstr "하나의 댓글"
+
+#: content-search.php:41 content.php:28
+msgid "No comments"
+msgstr "댓글 없음"
+
+#: content-search.php:28
+msgid "Posted in "
+msgstr "발행일 "
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:23
+msgid ", "
+msgstr ", "
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "댓글이 닫혔습니다."
+
+#: comments.php:55 comments.php:78
+msgid "Newer Comments"
+msgstr "새 댓글"
+
+#: comments.php:54 comments.php:77
+msgid "Older Comments"
+msgstr "이전 댓글"
+
+#: comments.php:51 comments.php:74
+msgid "Comment navigation"
+msgstr "댓글 내비게이션"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;의 %1$s개의 댓글"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;의 한가지 생각"
+
+#. Author URI of the plugin/theme
+msgid "https://www.themeisle.com/"
+msgstr "https://www.themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/naturelle/"
+msgstr "https://themeisle.com/themes/naturelle/"
